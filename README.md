@@ -1,12 +1,12 @@
-<h1 align="center">Backers &amp; Sponsors via Patreon</h1>
+<h1 align="center">Awesome Patrons</h1>
 
-The StartPolymer is an open-source project led by a team of front-end developers. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome Sponsors &amp; Backers. If you'd like to join them, please consider:
+The StartPolymer is an open-source project led by a team of front-end developers. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome Patrons. If you'd like to join them, please consider:
 
-- [Become a backer or sponsor on Patreon](https://www.patreon.com/StartPolymer).
+- [Become a patron on Patreon](https://www.patreon.com/StartPolymer).
 
 <br><br>
 
-<h2 align="center">Gold Sponsors</h2>
+<h2 align="center">Gold Patrons</h2>
 
 <p align="center">
   <a href="" target="_blank">
@@ -22,7 +22,7 @@ The StartPolymer is an open-source project led by a team of front-end developers
   </a>
 </p>
 
-<h2 align="center">Silver Sponsors</h2>
+<h2 align="center">Silver Patrons</h2>
 
 <table>
   <tbody>
@@ -84,7 +84,7 @@ The StartPolymer is an open-source project led by a team of front-end developers
   </tbody>
 </table>
 
-<h2 align="center">Bronze Sponsors</h2>
+<h2 align="center">Bronze Patrons</h2>
 
 <table>
   <tbody>
@@ -146,25 +146,25 @@ The StartPolymer is an open-source project led by a team of front-end developers
   </tbody>
 </table>
 
-<h2 align="center">Backers ($24+)</h2>
+<h2 align="center">Patrons ($24+)</h2>
 
 - Your name
 - Your name
 - Your name
 
-<h2 align="center">Backers ($16+)</h2>
+<h2 align="center">Patrons ($16+)</h2>
 
 - Your name
 - Your name
 - Your name
 
-<h2 align="center">Backers ($8+)</h2>
+<h2 align="center">Patrons ($8+)</h2>
 
 - Your name
 - Your name
 - Your name
 
-<h2 align="center">Backers ($4+)</h2>
+<h2 align="center">Patrons ($4+)</h2>
 
 - Your name
 - Your name
