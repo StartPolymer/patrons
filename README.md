@@ -1,4 +1,4 @@
-<h1 align="center">Sponsors &amp; Backers via Patreon</h1>
+<h1 align="center">Backers &amp; Sponsors via Patreon</h1>
 
 StartPolymer is an MIT-licensed open-source project. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome Sponsors &amp; Backers. If you'd like to join them, please consider:
 
