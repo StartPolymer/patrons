@@ -1,8 +1,6 @@
 <h1 align="center">Awesome Patrons</h1>
 
-The StartPolymer is an open-source project led by a team of front-end developers. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome Patrons. If you'd like to join them, please consider:
-
-- [Become a patron on Patreon](https://www.patreon.com/StartPolymer).
+The StartPolymer is an open-source project led by a team of front-end developers. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome Patrons. If you'd like to join them, please consider: [Become our patron on Patreon](https://www.patreon.com/StartPolymer).
 
 <br><br>
 
