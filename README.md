@@ -4,7 +4,7 @@ The StartPolymer is an open-source project led by a team of front-end developers
 
 <br><br>
 
-<h2 align="center">Gold Patrons</h2>
+<h2 align="center">Platinum Patrons</h2>
 
 <p align="center">
   <a href="" target="_blank">
@@ -18,7 +18,73 @@ The StartPolymer is an open-source project led by a team of front-end developers
   <a href="" target="_blank">
     <img width="300px" src="https://via.placeholder.com/320x120">
   </a>
+  <br><br>
+  <a href="" target="_blank">
+    <img width="300px" src="https://via.placeholder.com/320x120">
+  </a>
 </p>
+
+<h2 align="center">Gold Patrons</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="160px" src="https://via.placeholder.com/160x80">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center">Silver Patrons</h2>
 
