@@ -2,21 +2,13 @@
 
 StartPolymer is an open-source project led by a team of front-end developers. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome Patrons! If you'd like to join them, please consider: [Become our Patron on Patreon](https://www.patreon.com/StartPolymer)
 
-<h2 align="center">King Patron</h2>
-
-<p align="center">
-  <a href="https://github.com/piersmana/" target="_blank">
-    <strong>Piers Mana</strong>
-  </a>
-</p>
-
 <h2 align="center">Platinum Patrons</h2>
 
 <p align="center">
   <a href="" target="_blank">
     <img width="300px" src="https://via.placeholder.com/320x120">
   </a>
-  <br><br>
+  <!--<br><br>
   <a href="" target="_blank">
     <img width="300px" src="https://via.placeholder.com/320x120">
   </a>
@@ -27,7 +19,7 @@ StartPolymer is an open-source project led by a team of front-end developers. It
   <br><br>
   <a href="" target="_blank">
     <img width="300px" src="https://via.placeholder.com/320x120">
-  </a>
+  </a>-->
 </p>
 
 <h2 align="center">Gold Patrons</h2>
@@ -61,7 +53,7 @@ StartPolymer is an open-source project led by a team of front-end developers. It
         </a>
       </td>
     </tr>
-    <tr></tr>
+    <!--<tr></tr>
     <tr>
       <td align="center" valign="middle">
         <a href="" target="_blank">
@@ -88,7 +80,7 @@ StartPolymer is an open-source project led by a team of front-end developers. It
           <img width="160px" src="https://via.placeholder.com/160x80">
         </a>
       </td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 
@@ -123,7 +115,7 @@ StartPolymer is an open-source project led by a team of front-end developers. It
         </a>
       </td>
     </tr>
-    <tr></tr>
+    <!--<tr></tr>
     <tr>
       <td align="center" valign="middle">
         <a href="" target="_blank">
@@ -150,7 +142,7 @@ StartPolymer is an open-source project led by a team of front-end developers. It
           <img width="160px" src="https://via.placeholder.com/160x80">
         </a>
       </td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 
@@ -185,7 +177,7 @@ StartPolymer is an open-source project led by a team of front-end developers. It
         </a>
       </td>
     </tr>
-    <tr></tr>
+    <!--<tr></tr>
     <tr>
       <td align="center" valign="middle">
         <a href="" target="_blank">
@@ -212,30 +204,22 @@ StartPolymer is an open-source project led by a team of front-end developers. It
           <img width="160px" src="https://via.placeholder.com/160x40">
         </a>
       </td>
-    </tr>
+    </tr>-->
   </tbody>
 </table>
 
 <h2 align="center">Patrons ($24+)</h2>
 
 - Your name
-- Your name
-- Your name
 
 <h2 align="center">Patrons ($16+)</h2>
 
-- Your name
-- Your name
 - Your name
 
 <h2 align="center">Patrons ($8+)</h2>
 
 - Your name
-- Your name
-- Your name
 
 <h2 align="center">Patrons ($4+)</h2>
 
-- Piers Mana
-- Your name
-- Your name
+- [Piers Mana](https://github.com/piersmana)
