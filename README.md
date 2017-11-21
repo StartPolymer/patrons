@@ -1,8 +1,14 @@
-<h1 align="center">Awesome StartPolymer Patrons</h1>
+<h1 align="center">Awesome StartPolymer Patrons!</h1>
 
-The StartPolymer is an open-source project led by a team of front-end developers. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome Patrons. If you'd like to join them, please consider: [Become our patron on Patreon](https://www.patreon.com/StartPolymer).
+StartPolymer is an open-source project led by a team of front-end developers. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome Patrons! If you'd like to join them, please consider: [Become our Patron on Patreon](https://www.patreon.com/StartPolymer)
 
-<br><br>
+<h2 align="center">King Patron</h2>
+
+<p align="center">
+  <a href="https://github.com/piersmana/" target="_blank">
+    <strong>Piers Mana</strong>
+  </a>
+</p>
 
 <h2 align="center">Platinum Patrons</h2>
 
@@ -230,6 +236,6 @@ The StartPolymer is an open-source project led by a team of front-end developers
 
 <h2 align="center">Patrons ($4+)</h2>
 
-- Your name
+- Piers Mana
 - Your name
 - Your name
